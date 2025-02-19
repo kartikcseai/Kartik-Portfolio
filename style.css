@@ -90,7 +90,16 @@ main {
     margin-bottom: 75px;
     min-width: 259px;
 }
-
+.client_info{
+    font-family: Playball;    
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
 .sidebar, article {
     background: var(--eerie-black2);
     border: 1px solid var(--jet);
